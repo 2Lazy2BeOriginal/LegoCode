@@ -8,7 +8,7 @@ If you are unable to find one then go to settings -> Project: ... -> project int
 
 Go to the import on the 2nd line (the text will be grey and can blend in with the other text) and click the ... hover your mouse over the "import selenium" and click alt+shift+enter to install it. If it doesn't work go to the file -> settings -> Project: ... -> project interpreter and click the + button and type selenium
 
-There is another variable called folder, inside the '' will be the path to the folder, it's the same as the path to main.py except this time you get rid of the \main.py and yes get rid of the \. 
+There is another variable called folder, inside the '' will be the path to the folder, it's the same as the path to main.py except this time you get rid of the \main.py and yes get rid of the \. Alternatively if you are Windows and not planning on moving the project location, replace YOURNAME with your name or whatever is after Users 
 Adjust the HowMany variable to how many codes u want to get and redeem to your account (your account will include the new codes plus the codes you added to LegoCodes.txt)
 
 
